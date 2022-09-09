@@ -1,0 +1,146 @@
+@font-face {
+    font-family: 'Digital Display';
+    src: url('https://praxeds.github.io/scrimba-basketball-scoreboard/Assets/Digital-Display.woff2') format('woff2'),
+        url('https://praxeds.github.io/basketball-scoreboard/Assets/Digital-Display.woff2') format('woff');
+}
+
+body {
+    margin: 0;
+    
+}
+
+.container {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    background-color: #1B244A;
+    width: 575px;
+    height: 385px;
+    margin: auto
+ 
+}
+
+.h3 {
+    width: 149px;
+    height: 36px;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    text-align: center;
+    color: #EEEEEE;
+    margin: 10px auto
+}
+
+.h3a {
+    width: 149px;
+    height: 36px;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    text-align: center;
+    color: #EEEEEE;
+    margin: 10px auto
+}
+
+#score {
+    width: 155px;
+    height: 120px;
+    background: #080001;
+    border-radius: 5px;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 127px;
+    text-align: center;
+    color: #F94F6D;
+    margin:0px auto 20px;
+    font-family: Digital Display
+                                                
+    
+}
+
+#score1 {
+    width: 155px;
+    height: 120px;
+    background: #080001;
+    border-radius: 5px;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 127px;
+    text-align: center;
+    color: #F94F6D;
+    margin: 0px auto 20px;
+    font-family: Digital Display
+
+}
+
+
+#btn1 {
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    width: 45px;
+    height: 45px;
+    margin:auto 2px;
+    background-color: #1B244A;
+    color: #9AABD8;
+    font-family: Digital Display
+    
+}
+
+#btn2 {
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    width: 45px;
+    height: 45px;
+    margin:auto 2px;
+    background-color: #1B244A;
+    color: #9AABD8;
+    font-family: Digital Display
+}
+
+#btn3 {
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    width: 45px;
+    height: 45px;
+    margin:auto 2px;
+    background-color: #1B244A;
+    color: #9AABD8;
+    font-family: Digital Display
+}
+
+#gbtn1 {
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    width: 45px;
+    height: 45px;
+    margin:auto 2px;
+    background-color: #1B244A;
+    color: #9AABD8;
+    font-family: Digital Display
+}
+
+#gbtn2 {
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    width: 45px;
+    height: 45px;
+    margin:auto 2px;
+    background-color: #1B244A;
+    color: #9AABD8;
+    font-family: Digital Display
+}
+
+#gbtn3 {
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    width: 45px;
+    height: 45px;
+    margin:auto 2px;
+    background-color: #1B244A;
+    color: #9AABD8;
+    font-family: Digital Display
+}
